@@ -33,7 +33,10 @@ public class Lesson1 {
         exercise5();
 
 
-        //TEST COMITU Z PRACY 2015-08-24 
+        //TEST COMITU Z PRACY 2015-08-24
+
+
+        //Test z domu :)
     }
 
     /**
