@@ -5,6 +5,7 @@
  */
 package s10338;
 
+import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -30,6 +31,9 @@ public class Lesson1 {
         exercise4();
         System.out.println("Running exercise 5 solution...");
         exercise5();
+
+
+        //TEST COMITU Z PRACY 2015-08-24 
     }
 
     /**
